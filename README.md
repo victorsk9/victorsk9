@@ -1,16 +1,49 @@
-## Hi there 👋
+# Victor Samuel
 
-<!--
-**victorsk9/victorsk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on PHP and modern web technologies.
 
-Here are some ideas to get you started:
+Currently working with legacy systems, CakePHP, Git and process automation while studying modern backend development with Node.js and TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies
+
+- PHP
+- CakePHP
+- JavaScript
+- TypeScript
+- Node.js
+- MySQL
+- Git
+- HTML
+- CSS
+
+---
+
+## Current Focus
+
+Currently building **Persona Platform** — a scheduling and management platform for personal trainers and students.
+
+Main goals for the project:
+- Authentication system
+- Role-based access
+- Student management
+- Scheduling system
+- Workout tracking
+- Modern backend architecture
+
+---
+
+## Goals
+
+- Improve backend architecture skills
+- Build scalable APIs
+- Master TypeScript and Node.js
+- Create real-world full stack applications
+
+---
+
+## Contact
+
+- LinkedIn: linkedin.com/in/victors02
+- Email: vpsamuel7@gmail.com
