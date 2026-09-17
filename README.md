@@ -1,14 +1,14 @@
 # Victor Samuel
 
-Backend Developer focused on PHP and modern web technologies.
+Backend Developer focused on GO and modern web technologies.
 
-Currently working with legacy systems, CakePHP, Git and process automation while studying modern backend development with Node.js and TypeScript.
+Currently working with GOAT stack (GO+HTMX+TEMPL). I have worked in legacy systems with CakePHP, Git and process automation. Studying modern backend development with Node.js and TypeScript.
 
 ---
 
 ## Technologies
 
-- PHP
+- GO
 - CakePHP
 - JavaScript
 - TypeScript
@@ -38,7 +38,7 @@ Main goals for the project:
 
 - Improve backend architecture skills
 - Build scalable APIs
-- Master TypeScript and Node.js
+- Master Go ,TypeScript and Node.js
 - Create real-world full stack applications
 
 ---
